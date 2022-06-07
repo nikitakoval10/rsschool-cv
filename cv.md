@@ -28,3 +28,20 @@ const stringToNumber = function (str) {
   return Number(str);
 };
 ```
+
+## Education:
+
+### University:
+
+    Maxim Tank Belarusian State Pedagogical University
+
+### Courses:
+
+- HTML/CSS [https://fructcode.com/]
+- HTML/CSS/JavaScript [https://belhard.academy/]
+- SEO promotion [https://seo-school.by/]
+
+## Languages:
+
+**Russian** - native
+**English** - A2
