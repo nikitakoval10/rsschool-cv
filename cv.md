@@ -16,7 +16,7 @@
 
 ## About Myself
 
-I'm 30 years old, currently working in a sports organisation. I have experience in printing ([okprint.by/](https://okprint.by)), sales ([autostart.by/](https://autostart.by)) and as a content-manager ([alphagreen.io/](https://alphagreen.io)). But I have always been looking for a more promising activity that I will really enjoy and get pleasure from the work I do, not just money. I'm sure that studying at Rolling Scopes will bring me closer to that because web development and design have always appealed to me!
+I'm 30 years old, currently working in a sports organisation. I have experience in printing ([okprint.by](https://okprint.by)), sales ([autostart.by](https://autostart.by)) and as a content-manager ([alphagreen.io](https://alphagreen.io)). But I have always been looking for a more promising activity that I will really enjoy and get pleasure from the work I do, not just money. I'm sure that studying at Rolling Scopes will bring me closer to that because web development and design have always appealed to me!
 
 ## Skills:
 
@@ -42,9 +42,9 @@ const stringToNumber = function (str) {
 
 ### Courses:
 
-- HTML/CSS [https://fructcode.com/]
-- HTML/CSS/JavaScript [https://belhard.academy/]
-- SEO promotion [https://seo-school.by/]
+- HTML/CSS [fructcode.com](https://fructcode.com)
+- HTML/CSS/JavaScript [belhard.academy](https://belhard.academy)
+- SEO promotion [seo-school.by](https://seo-school.by)
 
 ## Languages:
 
