@@ -2,12 +2,17 @@
 
 ## My Contact Info
 
-**Country:** Republic of Belarus
-**Phone:** +375 201605255
-**E-mail:** nikitakoval10@gmail.com
-**GitHub:** nikitakoval10
-**Telegram:** @Koval10
-**Discord:** nikitakoval10#4310
+- **Country:** Republic of Belarus
+
+- **Phone:** +375 291605255
+
+- **E-mail:** nikitakoval10@gmail.com
+
+- **GitHub:** nikitakoval10
+
+- **Telegram:** @Koval10
+
+- **Discord:** nikitakoval10#4310
 
 ## About Myself
 
@@ -44,4 +49,5 @@ const stringToNumber = function (str) {
 ## Languages:
 
 **Russian** - native
+
 **English** - A2
