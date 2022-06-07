@@ -42,12 +42,12 @@ const stringToNumber = function (str) {
 
 ### Courses:
 
-- HTML/CSS [fructcode.com](https://fructcode.com)
-- HTML/CSS/JavaScript [belhard.academy](https://belhard.academy)
-- SEO promotion [seo-school.by](https://seo-school.by)
+- HTML/CSS ([fructcode.com](https://fructcode.com))
+- HTML/CSS/JavaScript ([belhard.academy](https://belhard.academy))
+- SEO promotion ([seo-school.by](https://seo-school.by))
 
 ## Languages:
 
-**Russian** - native
+**Russian** - Native
 
 **English** - A2
